@@ -55,3 +55,5 @@ List the current item shop rotation:
 ```cmd
 python fortnite_stats.py shop
 ```
+
+<!-- checked: 2026-09-13 -->
